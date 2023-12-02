@@ -19,11 +19,15 @@ Las indicaciones y requerimientos de esta práctica son:
 
 - En caso de que pase más de 1 minuto, se debe volver a hacer una solicitud get.Aquí el ejemplo en dibujo de las indicaciones anteriores:
 
-- Mostrar los datos recuperados en la interfaz del usuario, en una tabla o en otro componente para visualizarlo.
+   ![image](https://github.com/Cielciti97/api-fetch/assets/149416541/e66c6d22-c09e-4e20-9588-5f7ce81cf51b)
+
+
   
 console.log("============ REQUERIMIENTOS :) ============");
 
-- La visualización de los datos debe ser responsiva. 
+- La visualización de los datos debe ser responsiva.
+
+- Mostrar los datos recuperados en la interfaz del usuario, en una tabla o en otro componente para visualizarlo.
 
 - Las imágenes de los avatares debe mostrarse de manera circular. 
 
@@ -33,7 +37,8 @@ console.log("============ REQUERIMIENTOS :) ============");
 
 - Usa estilos con Bootstrap.
 
-- ![image](https://github.com/Cielciti97/api-fetch/assets/149416541/e66c6d22-c09e-4e20-9588-5f7ce81cf51b)
+  
+
 
 
 
