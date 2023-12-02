@@ -1,12 +1,11 @@
 # Carlos Carranza - JS07 - API Fetch
 
-console.log("=============================DESCRIPCIÓN :)=============================");
+console.log("============ DESCRIPCIÓN :) ============");
 
 Este repositorio contiene un ejercico para hacer uso de la api fetch para recuperar los datos del siguiente enlace: https://reqres.in/api/users?delay=3Links
 
 
-
-console.log("=============================INDICACIONES :)=============================");
+console.log("============ INDICACIONES :) ============");
 
 Las indicaciones y requerimientos de esta práctica son: 
 
@@ -22,9 +21,7 @@ Las indicaciones y requerimientos de esta práctica son:
 
 - Mostrar los datos recuperados en la interfaz del usuario, en una tabla o en otro componente para visualizarlo.
   
-
-console.log("=============================REQUERIMIENTOS :)=============================");
-
+console.log("============ REQUERIMIENTOS :) ============");
 
 - La visualización de los datos debe ser responsiva. 
 
