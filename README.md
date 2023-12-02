@@ -33,6 +33,9 @@ console.log("============ REQUERIMIENTOS :) ============");
 
 - Usa estilos con Bootstrap.
 
+- ![image](https://github.com/Cielciti97/api-fetch/assets/149416541/e66c6d22-c09e-4e20-9588-5f7ce81cf51b)
+
+
 
 
 
