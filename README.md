@@ -1,5 +1,10 @@
 # Carlos Carranza - JS07 - API Fetch
 
+UPDATE
+
+LINK del resultado!
+https://cielciti97.github.io/api-fetch/index.html
+
 console.log("============ DESCRIPCIÓN :) ============");
 
 Este repositorio contiene un ejercico para hacer uso de la api fetch para recuperar los datos del siguiente enlace: https://reqres.in/api/users?delay=3Links
